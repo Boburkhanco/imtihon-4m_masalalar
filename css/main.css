@@ -91,4 +91,12 @@
     .item{
         min-width: 140%;
     }
+    .btn-link{
+        width: 320px;
+        color: black;
+    }
+    .btn-link:hover{
+        width: 60px;
+        color: transparent;
+    }
 }
